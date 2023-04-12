@@ -1,12 +1,11 @@
-# Pizza Time
+# Pizzazy
 
-![Pizza Time preview](https://drive.google.com/file/d/1P3Uf1ujOVUaax2XX8hR5iir8Te0B1YuM/view?usp=share_link)
 
 Pizza Time: A delicious online experience. I designed and developed an e-commerce platform for this pizza restaurant, featuring an interactive menu with a variety of options including pizza, sushi, and pasta. Simplifying the online ordering process and providing a seamless user experience was the key goal of this project
 
 Live Version:
 
-[Pizza Time](https://pizzazzy.vercel.app/)
+[Pizzazy](https://pizzazzy.vercel.app/)
 
 ## Contents
 
